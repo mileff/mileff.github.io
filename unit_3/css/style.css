@@ -1,7 +1,7 @@
 body{
 	text-align: center;
 	background: #fff
-	color: red;
+	color:red;
 	font-family: Arial; 
 }
 
@@ -11,5 +11,6 @@ p{
 }
 
 hr{
-	width:  2000px;
+	color: red;
+	width:  1000px;
 }
