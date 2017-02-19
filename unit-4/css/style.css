@@ -4,6 +4,8 @@ h1{
 	color:#556573;
 	font-family: 'Pacifico', cursive;
 	font-style: oblique;
+    font-size: large ;
+    line-height: 1.4em;
 }
 
 h2{
@@ -12,15 +14,19 @@ h2{
 	color:#7B241C;
 	font-family: 'Graduate', cursive;
 	font-style: normal;
-    font-weight: bold;
+    	font-weight: 900;
+    	font-size: xx-large;
+    	line-height: 1em;
 }
 
 h3{
-    text-align: center;
+    	text-align: center;
 	background: #fff;
 	color:#556573;
 	font-family: 'Pacifico', cursive;
 	font-style: oblique; 
+    	font-size: large;
+    	line-height: 1.2em;
 }
 
 body{
