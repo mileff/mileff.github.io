@@ -1,0 +1,15 @@
+body{
+	text-align: center;
+	background: #fff
+	color: red;
+	font-family: Arial; 
+}
+
+p{
+	font-style: italic;
+	font-weight: 200
+}
+
+hr{
+	width:  2000px;
+}
