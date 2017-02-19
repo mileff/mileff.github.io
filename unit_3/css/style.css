@@ -1,16 +1,23 @@
-body{
+h1{
+	text-align: center;
+	background: #fff;
+	color:#cc0000;
+	font-family: Century; 	
+	font-
+p{
 	text-align: center;
 	background: #fff;
 	color:#ffc300;
-	font-family: Century; 
+	font-family: arial; 
 }
 
 p{
 	font-style: italic;
 	font-weight: 200;
+	
 }
 
 hr{
-	color: red;
+	color: #cc0000;
 	width:  1000px;
 }
