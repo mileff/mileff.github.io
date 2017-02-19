@@ -1,15 +1,38 @@
-body{
+h1{
 	text-align: center;
-	background: #fff
-	color: red;
-	font-family: Arial; 
+	background: #fff;
+	color:#556573;
+	font-family: 'Pacifico', cursive;
+	font-style: oblique;
 }
 
-p{
+h2{
+	text-align: center;
+	background: #fff;
+	color:#7B241C;
+	font-family: 'Graduate', cursive;
+	font-style: normal;
+    font-weight: bold;
+}
+
+h3{
+    text-align: center;
+	background: #fff;
+	color:#556573;
+	font-family: 'Pacifico', cursive;
+	font-style: oblique; 
+}
+
+body{
+	text-align: center;
+	background: #fff;
+	color:#556573;
+	font-family: arial; 
 	font-style: italic;
-	font-weight: 200
+	font-weight: 200;
 }
 
 hr{
-	width:  2000px;
+	color: #cc0000;
+	width:  1000px;
 }
