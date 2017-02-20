@@ -1,36 +1,33 @@
-
+@import url('https://fonts.googleapis.com/css?family=Graduate');
+@import url('https://fonts.googleapis.com/css?family=Graduate|Pacifico');
+body{
+	text-align: center;
+	color:#222;
+	font-family: arial, sans-serif; 
+	font-weight: 200;
+	line-height: 1.5;
+}
 h1{
 	text-align: center;
-	background: #fff;
 	color:#556573;
 	font-family: 'Pacifico', cursive;
 	font-style: oblique;
-    	font-size: x-large;
-    	line-height: 20px;
+	font-size: x-large;
+	line-height: 1em;
 }
-
-h2{
-	text-align: center;
-	background: #fff;
+span {
 	color:#7B241C;
 	font-family: 'Graduate', cursive;
 	font-style: normal;
-    	font-weight: 900;
-    	font-size: xx-large;
-    	line-height: 1px;
+	font-weight: 900;
+	font-size: xx-large;
+	display: block;
+	margin: .4em 0 .2em;
 }
-
-body{
-	text-align: center;
-	background: #fff;
-	color:#000000;
-	font-family: arial; 
-	font-style: italic;
-	font-weight: 200;
-    	line-height: 50px;
-}
-
 hr{
 	color: #cc0000;
 	width:  1000px;
+}
+img {
+	width:25%;
 }
